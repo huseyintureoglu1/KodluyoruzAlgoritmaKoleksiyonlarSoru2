@@ -1,0 +1,7 @@
+C:\Users\HT\source\repos\KoleksiyonlarSoru-2\KoleksiyonlarSoru-2\bin\Debug\KoleksiyonlarSoru-2.exe.config
+C:\Users\HT\source\repos\KoleksiyonlarSoru-2\KoleksiyonlarSoru-2\bin\Debug\KoleksiyonlarSoru-2.exe
+C:\Users\HT\source\repos\KoleksiyonlarSoru-2\KoleksiyonlarSoru-2\bin\Debug\KoleksiyonlarSoru-2.pdb
+C:\Users\HT\source\repos\KoleksiyonlarSoru-2\KoleksiyonlarSoru-2\obj\Debug\KoleksiyonlarSoru-2.csproj.AssemblyReference.cache
+C:\Users\HT\source\repos\KoleksiyonlarSoru-2\KoleksiyonlarSoru-2\obj\Debug\KoleksiyonlarSoru-2.csproj.CoreCompileInputs.cache
+C:\Users\HT\source\repos\KoleksiyonlarSoru-2\KoleksiyonlarSoru-2\obj\Debug\KoleksiyonlarSoru-2.exe
+C:\Users\HT\source\repos\KoleksiyonlarSoru-2\KoleksiyonlarSoru-2\obj\Debug\KoleksiyonlarSoru-2.pdb
